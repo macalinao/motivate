@@ -6,8 +6,15 @@ Posts a daily motivational message in your terminal.
 ![Formatted motivation][motivate-format]
 
 ## Usage
+
+For a formatted motivational message, use the following command.
 ```bash
 $ motivate format
+```
+
+If you want something unformatted to be piped into another program, use this command.
+```bash
+$ motivate
 ```
 
 ## License
