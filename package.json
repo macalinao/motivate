@@ -1,6 +1,6 @@
 {
   "name": "motivate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Motivate yourself with an inspirational quote.",
   "main": "motivate.js",
   "preferGlobal": true,
