@@ -6,6 +6,7 @@ Posts a daily motivational message in your terminal.
 ![Formatted motivation][motivate-format]
 
 ## Usage
+For an optimal effect, put this in your `.bashrc` or `.zshrc` so you see the message whenever you open a new terminal pane.
 
 For a formatted motivational message, use the following command.
 ```bash
