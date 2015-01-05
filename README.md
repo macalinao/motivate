@@ -5,6 +5,11 @@ Posts a daily motivational message in your terminal.
 
 ![Formatted motivation][motivate-format]
 
+## Installation
+```bash
+$ npm install -g motivate
+```
+
 ## Usage
 For an optimal effect, put this in your `.bashrc` or `.zshrc` so you see the message whenever you open a new terminal pane.
 
