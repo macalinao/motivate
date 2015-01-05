@@ -1,0 +1,31 @@
+{
+  "name": "motivate",
+  "version": "0.1.0",
+  "description": "Motivate yourself with an inspirational quote.",
+  "main": "motivate.js",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simplyianm/motivate.git"
+  },
+  "bin": {
+    "motivate": "cli.js"
+  },
+  "keywords": [
+    "motivate",
+    "self-improvement",
+    "shell",
+    "quote"
+  ],
+  "author": "Ian Macalinao <me@ian.pw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplyianm/motivate/issues"
+  },
+  "homepage": "https://github.com/simplyianm/motivate",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "moment": "^2.8.4",
+    "random-js": "^1.0.4"
+  }
+}
